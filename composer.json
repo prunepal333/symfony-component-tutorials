@@ -1,0 +1,12 @@
+{
+    "name": "sadish/event",
+    "require": {
+        "symfony/event-dispatcher": "^6.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sadish\\": "src/"
+        }
+    }
+}
